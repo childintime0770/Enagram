@@ -1,0 +1,21 @@
+{
+	"header": {
+		"chrome": "დაამატე ქრომში",
+		"upgradeToPro": "პრო ვერსია"
+	},
+	"sidebar": {
+		"spellchecker": "გრამატიკა",
+		"textToSpeech": "ტექსტი საუბრაში",
+		"speechToText": "საუბარი ტექსტში",
+		"settings": "პარამეტრები",
+		"facebook": "ფეისბუქი",
+		"contactSupport": "დაგვიკავშირდით"
+	},
+	"buttons": {
+		"check": "შეამოწმე",
+		"copy": "დააკოპირე",
+		"delete": "წაშალე"
+	},
+	"characters": "ასოები",
+	"words": "სიტყვები"
+}

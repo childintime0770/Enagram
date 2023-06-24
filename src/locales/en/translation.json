@@ -1,0 +1,21 @@
+{
+	"header": {
+		"chrome": "Add to Chrome",
+		"upgradeToPro": "Upgrade to Pro"
+	},
+	"sidebar": {
+		"spellchecker": "Spellchecker",
+		"textToSpeech": "Text to speech",
+		"speechToText": "Speech to text",
+		"settings": "Settings",
+		"facebook": "Facebook",
+		"contactSupport": "Contact support"
+	},
+	"buttons": {
+		"check": "Check",
+		"copy": "Copy",
+		"delete": "Delete"
+	},
+	"characters": "characters",
+	"words": "Words"
+}
